@@ -1,3 +1,3 @@
-# Demo
+# Demo!
 
-Training for git
+Training for git!
